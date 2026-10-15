@@ -1,0 +1,4 @@
+# Tiny GPT 100K — Phased Build
+# Python 3.10+ recommended
+
+torch>=2.3,<3.0
